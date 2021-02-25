@@ -1,0 +1,47 @@
+@import"https://cdnjs.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css";
+*{
+    margin: 0px;
+    padding: 5px;
+}
+.ex{
+    border: 1px solid ;
+    padding:10px;
+    box-shadow: 4px 4px teal;
+
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url("img2.png");
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+h1 {
+    font-size: 40px;
+    color: black;
+    margin-top: 300px;
+}
+
+p {
+    font-size: 17px;
+    color: black;
+}
+.logo{
+    width: 128px;
+    border-radius: 10px;
+}
+
+.form-group {
+    margin-bottom: 10px;
+    padding: 0;
+}
+.form-check {
+    padding-left: 1.25rem;
+}
+label {
+    display: inline-block;
+    margin-bottom: 5px;
+    padding: 0;
+}
